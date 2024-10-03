@@ -29,7 +29,7 @@ module.exports = {
           "Something Good",
         author:
           track?.author.replace(/[^a-zA-Z0-9\s]/g, "").substring(0, 20) ||
-          "Painfuego",
+          "Maharani",
         duration: track?.isStream
           ? "◉ LIVE"
           : client.formatTime(player.queue?.current?.length) || "06:09",
