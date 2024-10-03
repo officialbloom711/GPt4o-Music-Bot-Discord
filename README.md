@@ -21,7 +21,7 @@ GPT4o is a powerful and customizable music bot for Discord. It supports a wide v
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/GPT4o.git
+   git clone https://github.com/officialbloom711/GPt4o-Music-Bot-Discord
    cd GPT4o
    ```
 
