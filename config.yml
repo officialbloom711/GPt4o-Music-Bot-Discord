@@ -18,7 +18,7 @@ MANAGER:
   TOKEN: "YOUR BOT TOKEN"
 
 FUEGO:
-  PREFIX: "+"
+  PREFIX: "!"
   EMOJIS: "black"
   COLOR: "#ebf5fb"
   SHARDS: 1
