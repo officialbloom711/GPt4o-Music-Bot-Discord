@@ -1,8 +1,8 @@
 /** @format
  *
- * Fuego By Painfuego
+ * GPT 4o By mahaaranii
  * Version: 6.0.0-beta
- * © 2024 1sT-Services
+ * © 2024 NextGen Coders
  */
 
 const genButtons = require("@gen/playerButtons.js");
@@ -18,7 +18,7 @@ module.exports = async (data, client, player) => {
   const supportServerLink = "https://discord.gg/9J9X4fzhSt"; // Replace with your actual support server link
 
   const embed = new client.embed()
-    .setColor("#000000") // Dark background color similar to the one in the image
+    .setColor("#ebf5fb") // Dark background color similar to the one in the image
     .setAuthor({
       name: "Now playing", // Title of the embed
       iconURL: "https://cdn.discordapp.com/attachments/1285884256807161881/1286630506234118174/Did-You-Know-about-the-most-advanced-ChatGPT-4o-features_1.jpg?ex=66ee9b89&is=66ed4a09&hm=6c87411416ed2f67c944b1c0c30d705392189a3270fb5bdc4a35a1b5e427b1cc&", // Replace with the URL to your bot's logo

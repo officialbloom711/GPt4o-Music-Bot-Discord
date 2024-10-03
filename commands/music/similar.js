@@ -1,8 +1,8 @@
 /** @format
  *
- * Fuego By Painfuego
+ * GPT 4o By mahaaranii
  * Version: 6.0.0-beta
- * © 2024 GPT4o
+ * © 2024 NextGen Coders
  */
 
 const { ActionRowBuilder, StringSelectMenuBuilder } = require("discord.js");

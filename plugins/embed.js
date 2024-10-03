@@ -1,8 +1,8 @@
 /** @format
  *
- * Fuego By Painfuego
+ * GPT 4o By mahaaranii
  * Version: 6.0.0-beta
- * © 2024 1sT-Services
+ * © 2024 NextGen Coders
  */
 
 const { EmbedBuilder } = require("discord.js");
