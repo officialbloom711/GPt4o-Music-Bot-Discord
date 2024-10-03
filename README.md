@@ -45,19 +45,19 @@ GPT4o uses a `config.yml` file to manage its configuration. Customize it to your
 
 ## Commands (Prefix-based)
 
-Once the bot is running, you can use the following commands (with the default prefix `!`) to control the bot:
+Once the bot is running, you can use the following commands (with the default prefix `+`) to control the bot:
 
-- `!play [song name or link]` - Plays a song from YouTube, Spotify, etc.
-- `!skip` - Skips to the next song in the queue.
-- `!stop` - Stops the music and clears the queue.
-- `!pause` - Pauses the currently playing song.
-- `!resume` - Resumes paused music.
-- `!queue` - Displays the current playlist.
-- `!volume [1-100]` - Adjusts the volume of the bot.
-- `!np` - Shows the song currently playing.
-- `!remove [position]` - Removes a song from the queue at the specified position.
-- `!shuffle` - Shuffles the current queue.
-- `!filter [type]` - Applies a filter to the current track (e.g., bassboost, nightcore).
+- `+play [song name or link]` - Plays a song from YouTube, Spotify, etc.
+- `+skip` - Skips to the next song in the queue.
+- `+stop` - Stops the music and clears the queue.
+- `+pause` - Pauses the currently playing song.
+- `+resume` - Resumes paused music.
+- `+queue` - Displays the current playlist.
+- `+volume [1-100]` - Adjusts the volume of the bot.
+- `+np` - Shows the song currently playing.
+- `+remove [position]` - Removes a song from the queue at the specified position.
+- `+shuffle` - Shuffles the current queue.
+- `+filter [type]` - Applies a filter to the current track (e.g., bassboost, nightcore).
 
 ## Dependencies
 
