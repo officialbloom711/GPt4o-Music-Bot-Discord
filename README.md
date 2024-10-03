@@ -6,22 +6,22 @@
 
 ## Description
 
-GPT4o is a powerful and customizable music bot for Discord. It supports a wide variety of music sources, including Spotify, Deezer, and Apple Music, with advanced audio filters and custom features. With GPT4o, you can enjoy a seamless music experience with a simple, user-friendly interface.
+GPT4o is a powerful and customizable music bot for Discord, offering support for multiple music sources including Spotify, Deezer, Apple Music, and **YouTube**. With advanced audio filters and custom features, GPT4o provides a rich music experience that is easy to use with simple, intuitive commands.
 
 ## Features
 
-- 🎵 **Multi-source support**: Spotify, Deezer, Apple Music, and more.
+- 🎵 **Multi-source support**: Spotify, Deezer, Apple Music, and YouTube.
 - 🔄 **Seamless playback** with advanced audio filters.
 - 💡 **Custom commands** to enhance your Discord server.
 - 🎨 **Rich UI** using Discord.js for enhanced interactivity.
 - 🚀 **Optimized performance** with rate-limiting and load balancing.
-  
+
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/officialbloom711/GPt4o-Music-Bot-Discord
+   git clone https://github.com/officialbloom711/GPt4o-Music-Bot-Discord.git
    cd GPT4o
    ```
 
@@ -43,6 +43,22 @@ GPT4o is a powerful and customizable music bot for Discord. It supports a wide v
 
 GPT4o uses a `config.yml` file to manage its configuration. Customize it to your liking by adjusting settings such as command prefix, music sources, and API keys.
 
+## Commands (Prefix-based)
+
+Once the bot is running, you can use the following commands (with the default prefix `!`) to control the bot:
+
+- `!play [song name or link]` - Plays a song from YouTube, Spotify, etc.
+- `!skip` - Skips to the next song in the queue.
+- `!stop` - Stops the music and clears the queue.
+- `!pause` - Pauses the currently playing song.
+- `!resume` - Resumes paused music.
+- `!queue` - Displays the current playlist.
+- `!volume [1-100]` - Adjusts the volume of the bot.
+- `!np` - Shows the song currently playing.
+- `!remove [position]` - Removes a song from the queue at the specified position.
+- `!shuffle` - Shuffles the current queue.
+- `!filter [type]` - Applies a filter to the current track (e.g., bassboost, nightcore).
+
 ## Dependencies
 
 Here are some of the main dependencies used in GPT4o:
@@ -55,14 +71,6 @@ Here are some of the main dependencies used in GPT4o:
 - **[kazagumo](https://www.npmjs.com/package/kazagumo)** - Music framework built on Lavalink.
 
 For a complete list of dependencies, check the [package.json](./package.json) file.
-
-## Usage
-
-Once the bot is running, invite it to your server and use the commands to play music, manage queues, and more. GPT4o is designed to be intuitive, with commands such as:
-
-- `/play [song name or link]` - Plays a song.
-- `/skip` - Skips to the next song in the queue.
-- `/queue` - Displays the current playlist.
 
 ## Contributing
 
