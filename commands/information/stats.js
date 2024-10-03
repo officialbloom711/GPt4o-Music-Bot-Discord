@@ -90,7 +90,7 @@ module.exports = {
             value:
      
               
-              `1. [! Una 🌸](https://discordapp.com/users/920938695060774922) (Main Dev)`,
+              `1. [Maharani](https://discordapp.com/users/920938695060774922) (Main Dev)`,
             inline: false,
           }
       
