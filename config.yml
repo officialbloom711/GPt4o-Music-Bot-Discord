@@ -1,0 +1,37 @@
+# @format
+
+BOT:
+  OWNERS: ["920938695060774922"]
+  DEVELOPERS: ["920938695060774922"]
+  ADMINS: ["920938695060774922"]
+
+LINKS:
+  SUPPORT: "https://discord.gg/9J9X4fzhSt"
+  MONGO_URI: "mongodb+srv://music:music@123@cluster0.ae4m3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+
+SPOTIFY:
+  ID: "e6f84fbec2b44a77bf35a20c5ffa54b8"
+  SECRET: "98f461b962443cfaf9539c610e2ea81"
+
+MANAGER:
+  OWNER: ["920938695060774922"]
+  TOKEN: "YOUR BOT TOKEN"
+
+FUEGO:
+  PREFIX: "+"
+  EMOJIS: "black"
+  COLOR: "#ebf5fb"
+  SHARDS: 1
+  PER_CLUSTER: 1
+  TOKEN: "YOUR BOT TOKEN"
+  TOPGGAUTH: ""
+
+VOTE : ""
+
+
+WEBHOOKS:
+  ERROR: ""
+  STATIC: "c"
+  PLAYER: ""
+  SERVER: ""
+  COMMAND: ""
