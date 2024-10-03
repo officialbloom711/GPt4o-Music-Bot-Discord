@@ -85,3 +85,7 @@ We welcome contributions! Please fork this repository, make your changes, and op
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+## Support Server
+
+- https://discord.gg/9J9X4fzhSt
